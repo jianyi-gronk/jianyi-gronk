@@ -12,4 +12,4 @@
 
 👏 Opened ISSUE [#333](https://github.com/apache/dubbo-js/issues/333) in [apache/dubbo-js](https://github.com/apache/dubbo-js)
 
-👍 Created [tdesign-mobile-starter](https://github.com/jianyi-gronk/tdesign-mobile-starter) for TDesign template
+👍 Created [tdesign-mobile-starter](https://github.com/jianyi-gronk/tdesign-mobile-starter) for [TDesign Mobile](https://github.com/Tencent/tdesign-mobile-vue) template
