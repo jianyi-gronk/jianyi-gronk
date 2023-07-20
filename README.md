@@ -8,7 +8,7 @@
 ### :zap: TOTAL Activity
 
 <!--START_SECTION:activity-->
-💪 Opened PR [#334](https://github.com/apache/dubbo-js/pull/334), [#335](https://github.com/apache/dubbo-js/pull/335), [#336](https://github.com/apache/dubbo-js/pull/336), [#337](https://github.com/apache/dubbo-js/pull/337), [#338](https://github.com/apache/dubbo-js/pull/338), [#339](https://github.com/apache/dubbo-js/pull/339) in [apache/dubbo-js](https://github.com/apache/dubbo-js)
+💪 Opened PR [#334](https://github.com/apache/dubbo-js/pull/334), [#335](https://github.com/apache/dubbo-js/pull/335), [#336](https://github.com/apache/dubbo-js/pull/336), [#337](https://github.com/apache/dubbo-js/pull/337), [#338](https://github.com/apache/dubbo-js/pull/338), [#339](https://github.com/apache/dubbo-js/pull/339), [#340](https://github.com/apache/dubbo-js/pull/340) in [apache/dubbo-js](https://github.com/apache/dubbo-js)
 
 👏 Opened ISSUE [#333](https://github.com/apache/dubbo-js/issues/333) in [apache/dubbo-js](https://github.com/apache/dubbo-js)
 
