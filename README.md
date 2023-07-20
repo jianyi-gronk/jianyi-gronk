@@ -1,5 +1,22 @@
 ### Hi there 👋👋👋
 
+hello，我是 jianyi，江西财经大学 24 届学生，是一名准前端开发工程师，对其他编程方向也非常非常感兴趣 🤖
+
+- 前端实习
+  - 海康威视 2022.11 - 2023.4
+  - 蔚来 2023.4 - 现在
+- 数模
+  - mathorcup 数模竞赛全国一等奖，并在 本科生 + 研究生 总共 8970 支队伍中，拿到了只有 4 支队伍获取的杉树科技奖金，以及只有 7 支队伍获取的赛后研究资格（ 关于 使用优化的人工鱼群算法解决站址规划问题 ）
+- 算法（ 尚在努力，很菜很菜，大四继续加油！ ）
+  - icpc 省铜
+  - 天梯赛个人国三
+  - 蓝桥杯 c++ 国三
+  - [力扣](https://leetcode.cn/u/jianyi-gronk/)
+  - [codeforces](https://codeforces.com/profile/gronk)
+- 科研
+  - 参与发表一篇 用于时间序列数据的文本生成模型 论文，并已发表在 IJCNN ( ccf-c 类会议 ）
+ 
+
 <div style="display: flex; gap: 10px;">
   <img height="200px" src="https://github-readme-stats.vercel.app/api?username=jianyi-gronk&show_icons=true&theme=flag-india&count_private=true&hide_rank=true&include_all_commits=true">
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianyi-gronk&layout=donut">
