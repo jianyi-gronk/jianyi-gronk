@@ -5,7 +5,7 @@
   <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jianyi-gronk&layout=donut">
 </div>
 
-### :zap: Recent Activity
+### :zap: TOTAL Activity
 
 <!--START_SECTION:activity-->
 💪 Opened PR [#334](https://github.com/apache/dubbo-js/pull/334), [#335](https://github.com/apache/dubbo-js/pull/335), [#336](https://github.com/apache/dubbo-js/pull/336), [#337](https://github.com/apache/dubbo-js/pull/337), [#338](https://github.com/apache/dubbo-js/pull/338), [#339](https://github.com/apache/dubbo-js/pull/339) in [apache/dubbo-js](https://github.com/apache/dubbo-js)
