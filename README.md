@@ -11,7 +11,7 @@ hello，我是 jianyi，江西财经大学 24 届学生，是一名准前端开�
   - icpc 省铜，蓝桥杯 c++ 国三，天梯赛个人国三
   - [力扣](https://leetcode.cn/u/jianyi-gronk/)，[codeforces](https://codeforces.com/profile/gronk)
 - 科研
-  - 参与发表一篇 用于时间序列数据的文本生成模型 论文，并已发表在 IJCNN ( ccf-c 类会议 ）
+  - 参与发表论文 Repr2Seq: A Data-To-Text Generation Model for Time Series 在 IJCNN ( ccf-c 类会议 ）
  
 
 <div style="display: flex; gap: 10px;">
