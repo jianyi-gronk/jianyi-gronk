@@ -9,7 +9,7 @@ hello，我是 jianyi，江西财经大学 24 届学生，是一名准前端开�
   - mathorcup 数模竞赛全国一等奖，并在 本科生 + 研究生 总共 8970 支队伍中，拿到了只有 4 支队伍获取的杉树科技奖金，以及只有 7 支队伍获取的赛后研究资格（ 关于 使用优化的人工鱼群算法解决站址规划问题 ）
 - 算法（ 尚在努力，很菜很菜，大四继续加油 ！）
   - icpc 省铜，蓝桥杯 c++ 国三，天梯赛个人国三
-  - [力扣](https://leetcode.cn/u/jianyi-gronk/)，[codeforces](https://codeforces.com/profile/gronk)
+  - [力扣](https://leetcode.cn/u/jianyi-gronk/)，[codeforces](https://codeforces.com/profile/gronk)，[POJ](http://poj.org/userstatus?user_id=0201037)
 - 科研
   - 参与发表论文 Repr2Seq: A Data-To-Text Generation Model for Time Series 在 IJCNN ( ccf-c 类会议 ）
  
