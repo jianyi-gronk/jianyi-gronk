@@ -1,8 +1,8 @@
 ### Hi there 👋👋👋
 
 - hello，我是 jianyi，江西财经大学 24 届本科学生，热爱软件开发，对各个编程方向都非常非常感兴趣 🤖
-- kaggle 竞赛
-  - [个人主页](https://www.kaggle.com/jianyicai)：铜牌 * 1
+- kaggle 竞赛（ [个人主页](https://www.kaggle.com/jianyicai) ）
+  - 铜牌 - [CIBMTR - Equity in post-HCT Survival Predictions](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions)
 - 开源经历：
   - Apache Dubbo 社区：（ Apache Dubbo Commiter ）
     - 负责 [dubbo-js](https://github.com/apache/dubbo-js)
