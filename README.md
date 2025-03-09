@@ -7,7 +7,7 @@
   - Apache Dubbo 社区：（ Apache Dubbo Commiter ）
     - 负责 [dubbo-js](https://github.com/apache/dubbo-js)
     - 参与 [dubbo-kubernetes](https://github.com/apache/dubbo-kubernetes)：参与实现微服务集群监测工具
-  - alibaba 社区：
+  - Alibaba 社区：
     - 参与 [spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)：参与实现支持 spring-ai-alibaba 应用可视化调试与追踪本地工具
     - 参与 [spring-ai-alibaba-examples](https://github.com/springaialibaba/spring-ai-alibaba-examples)：参与实现 spring-ai-alibaba 的 demo
   - Arco Design 社区：
