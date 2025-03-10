@@ -11,7 +11,7 @@
     - 参与 [spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)：参与实现支持 spring-ai-alibaba 应用可视化调试与追踪本地工具
     - 参与 [spring-ai-alibaba-examples](https://github.com/springaialibaba/spring-ai-alibaba-examples)：参与实现 spring-ai-alibaba 的 demo
   - Arco Design 社区：
-    - 参与 [Arco Design Mobile](https://github.com/arco-design/arco-design-mobile)：参与文件上传组件的开发
+    - 参与 [Arco Design Mobile](https://github.com/arco-design/arco-design-mobile)：参与实现文件上传组件
 - 工作经历
   - 字节跳动（ 搜索 / 抖音搜索 ） - （ 2024.02 ~ 至今 ）
   - 【实习】微软（ WebXT / Search & Distribution ） - （ 2023.09 ~ 2024.02 ）
