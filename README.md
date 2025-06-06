@@ -2,7 +2,7 @@
 
 - hello，我是 jianyi，江西财经大学 24 届本科学生，热爱软件开发，对各个编程方向都非常非常感兴趣 🤖
 - [kaggle 竞赛](https://www.kaggle.com/jianyicai)
-  - 铜牌 solo（ 141 / 2161 ）：[BirdCLEF+ 2025](https://www.kaggle.com/competitions/birdclef-2025)
+  - 铜牌 solo（ 133 / 2025 ）：[BirdCLEF+ 2025](https://www.kaggle.com/competitions/birdclef-2025)
   - 铜牌（ 260 / 3325 ）：[CIBMTR - Equity in post-HCT Survival Predictions](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions)
 - 开源经历
   - Apache Dubbo 社区：（ Apache Dubbo Commiter ）
