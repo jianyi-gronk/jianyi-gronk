@@ -12,6 +12,8 @@
   - Alibaba 社区
     - 参与 [spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)：参与实现支持 spring-ai-alibaba 应用可视化调试与追踪本地工具
     - 参与 [spring-ai-alibaba-examples](https://github.com/springaialibaba/spring-ai-alibaba-examples)：参与实现 spring-ai-alibaba 的 demo
+  - Webpack 社区
+    - 参与 [tapable](https://github.com/webpack/tapable)：阅读源码时，发现并解决边界 case
   - Arco Design 社区
     - 参与 [Arco Design Mobile](https://github.com/arco-design/arco-design-mobile)：参与实现文件上传组件
 - 工作经历
