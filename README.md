@@ -7,7 +7,7 @@
   - Bronze Medal (260 / 3325): [CIBMTR - Equity in post-HCT Survival Predictions](https://www.kaggle.com/competitions/equity-post-HCT-survival-predictions)
 - Open Source
   - Apache Dubbo (Committer)
-    - Maintainer of [dubbo-js](https://github.com/apache/dubbo-js)
+    - Contributor to [dubbo-js](https://github.com/apache/dubbo-js)
     - Contributor to [dubbo-kubernetes](https://github.com/apache/dubbo-kubernetes): microservice cluster monitoring tooling
   - Alibaba
     - Contributor to [spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba): visual debugging & tracing tool for spring-ai-alibaba applications
