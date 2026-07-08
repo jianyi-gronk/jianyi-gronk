@@ -2,6 +2,7 @@
 
 - Hey, I'm Jianyi. 2024 graduate from Jiangxi University of Finance and Economics. Passionate about software development — interested in pretty much every area of programming 🤖
 - [Kaggle Competitions](https://www.kaggle.com/jianyicai)
+  - Silver Medal, Solo (134 / 4729): [Orbit Wars](https://www.kaggle.com/competitions/orbit-wars)
   - Silver Medal, Solo (133 / 4091): [BirdCLEF+ 2026](https://www.kaggle.com/competitions/birdclef-2026)
   - Bronze Medal, Solo (94 / 1428): [PhysioNet - Digitization of ECG Images](https://www.kaggle.com/competitions/physionet-ecg-image-digitization)
   - Bronze Medal, Solo (133 / 2025): [BirdCLEF+ 2025](https://www.kaggle.com/competitions/birdclef-2025)
